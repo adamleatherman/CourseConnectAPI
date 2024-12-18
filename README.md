@@ -1,6 +1,6 @@
 # CourseConnectAPI
 
-A robust API for managing user accounts, courses, enrollments, and role-based authentication in an educational platform. Built with Flask, Google Cloud Datastore, and Auth0 for secure and efficient operations.
+A robust API for managing user accounts, courses, enrollments, and role-based authentication in an educational platform. Built with Flask, Google Cloud Datastore, and Auth0.
 
 ## Features
 
